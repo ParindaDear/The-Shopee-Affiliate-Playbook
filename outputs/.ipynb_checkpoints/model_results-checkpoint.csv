@@ -1,0 +1,4 @@
+Model,Train Acc,Test Acc,F1 (Test),Overfit
+Random Forest,0.7801,0.6154,0.6078,Yes
+Decision Tree,0.7801,0.5917,0.575,Yes
+Logistic Regression,0.5513,0.5444,0.5435,No
